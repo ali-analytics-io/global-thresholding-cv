@@ -8,7 +8,7 @@ Global thresholding is a simple yet effective technique for image segmentation. 
 ## Requirements
 - Python 3.12
 - OpenCV (cv2): 
-- NumPy: 1.24.3
+- NumPy: 1.26.4
 
 ## Usage
 1. Clone the repository:
